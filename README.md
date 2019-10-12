@@ -1,9 +1,9 @@
-Temporary Async.Udp Compatibility Shim for v0.12
+Temporary Async_extra.Udp Compatibility Shim for v0.12
 =================
 
-Your code that uses `Async.Udp` won't build anymore?  Same here!
+Your code that uses `Async_extra.Udp` won't build anymore?  Same here!
 
-Jane Street accidentally dropped the `Async.Udp` module from their v0.12 release of `async_extra`. :laughing:
+Jane Street accidentally dropped the `Async_extra.Udp` module from their v0.12 release of `async_extra`. :laughing:
 
 You can get it back by doing:
 
