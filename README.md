@@ -1,6 +1,6 @@
 Your code that uses `Async.Udp` won't build anymore?  Same here!
 
-Jane Street accidentally dropped the `Async.Udp` module from their v0.12 release of `async_extra`.
+Jane Street accidentally dropped the `Async.Udp` module from their v0.12 release of `async_extra`. :laughing:
 
 You can get it back by doing:
 
