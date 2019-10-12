@@ -1,0 +1,26 @@
+lib: [
+  "_build/install/default/lib/async_udp/META"
+  "_build/install/default/lib/async_udp/async_udp.a"
+  "_build/install/default/lib/async_udp/async_udp.cma"
+  "_build/install/default/lib/async_udp/async_udp.cmi"
+  "_build/install/default/lib/async_udp/async_udp.cmt"
+  "_build/install/default/lib/async_udp/async_udp.cmti"
+  "_build/install/default/lib/async_udp/async_udp.cmx"
+  "_build/install/default/lib/async_udp/async_udp.cmxa"
+  "_build/install/default/lib/async_udp/async_udp.cmxs"
+  "_build/install/default/lib/async_udp/async_udp.ml"
+  "_build/install/default/lib/async_udp/async_udp.mli"
+  "_build/install/default/lib/async_udp/async_udp__.cmi"
+  "_build/install/default/lib/async_udp/async_udp__.cmt"
+  "_build/install/default/lib/async_udp/async_udp__.cmx"
+  "_build/install/default/lib/async_udp/async_udp__.ml"
+  "_build/install/default/lib/async_udp/async_udp__Import.cmi"
+  "_build/install/default/lib/async_udp/async_udp__Import.cmt"
+  "_build/install/default/lib/async_udp/async_udp__Import.cmx"
+  "_build/install/default/lib/async_udp/dune-package"
+  "_build/install/default/lib/async_udp/import.ml"
+  "_build/install/default/lib/async_udp/opam"
+]
+doc: [
+  "_build/install/default/doc/async_udp/README.md"
+]
